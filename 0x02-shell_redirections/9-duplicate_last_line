@@ -1,0 +1,2 @@
+#!/bin/bash
+echo  -en "" | tail --liness=1 iacta >> iacta
